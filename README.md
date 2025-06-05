@@ -7,7 +7,7 @@ A minimal Rails 8 starter application that implements JWT (JSON Web Token) based
 1. Clone the repository:
 
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/xamey/rails-with-jwt
    cd rails-with-jwt
    ```
 
