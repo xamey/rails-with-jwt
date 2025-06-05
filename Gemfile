@@ -62,4 +62,4 @@ group :test do
   gem "selenium-webdriver"
 end
 
-gem "jwt", "~> 2.9.3"
+gem "jwt", "~> 2.10.1"
